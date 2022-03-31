@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: vabiziyanstudios.netlify.app
+Token: bbfa7f479a61b5541b77a42d5348dc9acbd5de2f03e020d021c274192e28a926
